@@ -25,3 +25,15 @@ depay
 
 
 读书：概要，观点，通用词汇。
+
+
+
+
+
+chatGPT 是什么？
+
+
+
+
+
+artificial intelligence
